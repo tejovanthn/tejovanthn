@@ -6,12 +6,13 @@ Building products and teams that build products
 
 I am former-founder who has been building marketplaces since 2015. I've grown from being an IC to managing engineering teams in the past few years. My most recent stack is on MERN, and I have built with python, vanilla JS, etc. I enjoy all things tech, design, food, and learning.
 
-* 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [website](https://tejovanthn.com)
-* ✉️  You can contact me at [tejovanthn@gmail.com](mailto:tejovanthn@gmail.com)
-* 🚀  I'm currently working at [MPOWERFinancing](https://mpowerfinancing.com)
-* 🎆  I've built [Flordle](https://flordle.xyz), [Tala Pettige](https://talapettige.art)
-* ⚡  My superpower is JSON wrangling
+* 🌍 I'm based in Bangalore, India
+* 🖥️ See my portfolio at [website](https://tejovanthn.com)
+* ✉️ You can contact me at [tejovanthn@gmail.com](mailto:tejovanthn@gmail.com)
+* 🚀 I'm currently helping [build online presence](https://blrmys.com) for SMEs
+* 📺 I'm streaming on [YouTube](https://youtube.com/@codewithteej)/[Twitch](https://www.twitch.tv/codewithteej) while building [Rasika.life](https://rasika.life) - a platform for music enthusiasts. 
+* 🎆 I've built [Flordle](https://flordle.xyz), [Tala Pettige](https://talapettige.art)
+* ⚡ My superpower is JSON wrangling
 
 <a href="https://www.twitter.com/ibakasura" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ibakasura?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
